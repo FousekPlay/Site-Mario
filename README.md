@@ -8,7 +8,7 @@
 
 ## 💻 Projeto
 
-Este projeto é um tutorial que ensina a como criar o site do filme **Mario Bros** ao usar _HTML_ e _CSS_.
+Este projeto é um site do filme **Mario Bros** ultilizando as ferramentas _HTML_ e _CSS_.
 
 ## 🚀 Tecnologias
 
@@ -30,4 +30,4 @@ Este projeto é um tutorial que ensina a como criar o site do filme **Mario Bros
 
 - [ ] Criar responsividade
 - [ ] Adicionar efeito de hover nos botões
-
+- [ ] Projeto inacabado
